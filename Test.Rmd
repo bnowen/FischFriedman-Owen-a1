@@ -1,12 +1,13 @@
 ---
 title: "First File"
 output: html_document
+author: Molly Fisch-Friedman & Brittany Owen
 date: "2024-08-28"
 ---
 
-
-## R Markdown
+## Introduction
 
 Here is our first file! 
 
 Testing to make sure this works!
+
